@@ -37,6 +37,8 @@ For this class we are going to use [Gephi](https://gephi.org/). You need to down
 ### Finding Patterns Across Data
 You can find all the material that you will need for this class in this Folder (Please notice that if you want to download the material on your laptop you will need to download the whole repository rather than single folders). 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DCS-training/DECODE-WinterSchool/HEAD)
+
 To attend the class you do not need to download anything because the Binder link is set to access both the data and the code authomatically 
 
 ### Data Science in the Wild
