@@ -10,8 +10,8 @@ library(vegan)
 
 ### Data ####
 
-animals <- read.csv("/data/animals.csv")
-sheeps <- read.csv("/data/sheeps.csv")
+animals <- read.csv("/animals.csv")
+sheeps <- read.csv("/sheeps.csv")
 
 ### Sample Size ####
 
