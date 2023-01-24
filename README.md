@@ -49,7 +49,7 @@ Just click on the banner below.
 
 **NB** Because R Studio is not the default environment in Binder once your environment has been created you will need to substitute the /lab part of the web address with /rstudio.
 
-If you want to download your onw copy of the notebook we are going to work on you need to follow these steps. 
+If you want to download a copy of the notebook we are going to work on you need to follow these steps. 
 - Go back to the Jupyter interface by subsituting /rstudio with /lab
 - Navigate to the file you want to download
 - Right click of the mouse > download
@@ -62,7 +62,7 @@ Just click on the banner below.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DCS-training/DECODE-WinterSchool/HEAD)
 
-If you want to download your onw copy of the notebook we are going to work on you need to follow these steps. 
+If you want to download a copy of the notebook we are going to work on you need to follow these steps. 
 - Navigate to the file you want to download
 - Right click of the mouse > download
 
