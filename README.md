@@ -43,7 +43,7 @@ You can find all the material that you will need for this class in [this Folder]
 
 To attend the class you do not need to download anything because the Binder link is set to access both the data and the code authomatically. 
 
-Because R Studio is not the default environment in Binder you need to substitute the /lab part of the web address with /rstudio.
+**NB** Because R Studio is not the default environment in Binder once your environment will be created you need to substitute the /lab part of the web address with /rstudio.
 
 If you want to download your onw copy of the notebook we are going to work on you need to follow these steps. 
 - Go back to the Jupyter interface by subsituting /rstudio with /lab
