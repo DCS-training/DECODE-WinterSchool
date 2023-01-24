@@ -10,8 +10,8 @@ library(vegan)
 
 ### Data ####
 
-animals <- read.csv("/animals.csv")
-sheeps <- read.csv("/sheeps.csv")
+animals <- read.csv("FindingPatternsAcrossData/animals.csv")
+sheeps <- read.csv("FindingPatternsAcrossData/sheeps.csv")
 
 ### Sample Size ####
 
