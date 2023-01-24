@@ -20,10 +20,10 @@ Below you can find all the details that you will need to get ready and attend th
 
 ## Software installation
 ### Finding Patterns Across Data
-For this class we are going to use [R](https://www.r-project.org/) and [R studio](https://posit.co/). If you are new to it do not worry we have created an easy to use link that will allow you to visualise and play around with the code for this class. just press the button below.
+For this class we are going to use [R](https://www.r-project.org/) and [R studio](https://posit.co/). If you are new to it do not worry we have created an easy to use link that will allow you to visualise and play around with the code for this class. Below in the **Material Section**.
 
 ### Data Science in the Wild
-For this class we are going to use [Python](https://www.python.org/) and [Jupyter Notebooks](https://jupyter.org/). If you are new to it do not worry we have created an easy to use link that will allow you to visualise and play around with the code for this class. just press the button below.
+For this class we are going to use [Python](https://www.python.org/) and [Jupyter Notebooks](https://jupyter.org/). If you are new to it do not worry we have created an easy to use link that will allow you to visualise and play around with the code for this class. Below in the **Material Section**.
 
 
 ### Network Analysis with Gephi
