@@ -56,7 +56,7 @@ You can find all the material that you will need for this class in [this Folder]
 To attend the class you do not need to download anything because Binder is set to access both the data and the code authomatically.
 Just click on the banner below.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DCS-training/DECODE-WinterSchool/HEAD).
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DCS-training/DECODE-WinterSchool/HEAD)
 
 If you want to download your onw copy of the notebook we are going to work on you need to follow these steps. 
 - Navigate to the file you want to download
