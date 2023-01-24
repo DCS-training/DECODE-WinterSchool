@@ -14,42 +14,58 @@ Below you can find all the details that you will need to get ready and attend th
 ## What will you need 
 - A Laptop
 - A Mouse (non-mandatory)
-- A WiFi Connection
+- A WiFi Connection 
+- Gephi installed on your machine (Only if you are attending the Network Analysis with Gephi class)
 
 
 ## Software installation
 ### Finding Patterns Across Data
-For this class we are going to use [R](https://www.r-project.org/) and [R studio](https://posit.co/). If you are new to it do not worry we have created an easy to use link that will allow you to visualise and play around with the code for this class. just press the button below.
+For this class we are going to use [R](https://www.r-project.org/){:target="_blank"} and [R studio](https://posit.co/){:target="_blank"}. If you are new to it do not worry we have created an easy to use link that will allow you to visualise and play around with the code for this class. just press the button below.
 
 ### Data Science in the Wild
-For this class we are going to use [Python](https://www.python.org/) and [Jupyter Notebooks](https://jupyter.org/). If you are new to it do not worry we have created an easy to use link that will allow you to visualise and play around with the code for this class. just press the button below.
+For this class we are going to use [Python](https://www.python.org/){:target="_blank"} and [Jupyter Notebooks](https://jupyter.org/){:target="_blank"}. If you are new to it do not worry we have created an easy to use link that will allow you to visualise and play around with the code for this class. just press the button below.
 
 
-### Network Analysis 
-For this class we are going to use [Gephi](https://gephi.org/). You need to download and install the software before attending the master class.
-- Go to [https://gephi.org ](https://gephi.org/users/download/)
+### Network Analysis with Gephi
+For this class we are going to use [Gephi](https://gephi.org/){:target="_blank"}. You need to download and install the software before attending the master class.
+- Go to [https://gephi.org ](https://gephi.org/users/download/){:target="_blank"}
 - Download the version corresponding to your operating system 
 - Follow the widget instruction to install it on your machine 
 - Execute the Software
 
 
 ## Material
+
 ### Finding Patterns Across Data
 You can find all the material that you will need for this class in this Folder (Please notice that if you want to download the material on your laptop you will need to download the whole repository rather than single folders). 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DCS-training/DECODE-WinterSchool/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DCS-training/DECODE-WinterSchool/HEAD){:target="_blank"}
 
-To attend the class you do not need to download anything because the Binder link is set to access both the data and the code authomatically 
+To attend the class you do not need to download anything because the Binder link is set to access both the data and the code authomatically. 
+
+Because R Studio is not the default environment in Binder you need to substitute the /lab part of the web address with /rstudio.
+
+If you want to download your onw copy of the notebook we are going to work on you need to follow these steps. 
+- Go back to the Jupyter interface by subsituting /rstudio with /lab
+- Navigate to the file you want to download
+- Right click of the mouse > download
 
 ### Data Science in the Wild
-You can find all the material that you will need for this class in this Folder (Please notice that if you want to download the material on your laptop you will need to download the whole repository rather than single folders). 
+You can find all the material that you will need for this class in [this Folder](https://github.com/DCS-training/DECODE-WinterSchool/tree/main/DataScienceInTheWild) (Please notice that if you want to download the material on your laptop you will need to download the whole repository rather than single folders). 
 
-To attend the class you do not need to download anything because the Binder link is set to access both the data and the code authomatically 
+To attend the class you do not need to download anything because Binder is set to access both the data and the code authomatically.
+Just click on the banner below.
 
-### Network Analysis 
-You can find all the material that you will need for this class in this Folder (Please notice that if you want to download the material on your laptop you will need to download the whole repository rather than single folders). 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DCS-training/DECODE-WinterSchool/HEAD){:target="_blank"}.
 
-You will need to download the .csv file that we are going to use during the class
+If you want to download your onw copy of the notebook we are going to work on you need to follow these steps. 
+- Navigate to the file you want to download
+- Right click of the mouse > download
+
+### Network Analysis with Gephi
+You can find all the material that you will need for this class in [this Folder](https://github.com/DCS-training/DECODE-WinterSchool/tree/main/NetworkingAnalysisGephi){:target="_blank"} (Please notice that if you want to download the material on your laptop you will need to download the whole repository rather than single folders). 
+
+You will need to download the .csv file that we are going to use during the class.
 
 
 ## License and Authors
