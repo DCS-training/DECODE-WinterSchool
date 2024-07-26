@@ -1,7 +1,8 @@
 # DECODE Winter School
 
 Welcome to the Readme file for the CDCS Masterclasses that wil take place Thursday 26/01/2023 and Friday 27/01/23. 
-Below you can find all the details that you will need to get ready and attend these classes 
+In here you can find material on cluster analysis, data wrangling, and network analysis.
+Below you can find all the details you need to get ready and attend these classes. 
 
 ## Venues and Times
 
